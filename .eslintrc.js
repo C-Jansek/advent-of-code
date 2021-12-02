@@ -40,6 +40,7 @@ module.exports = {
         'unicorn/no-array-reduce': 'off',
         'no-undefined': 'error',
         'unicorn/prefer-default-parameters': 'off',
+        'unicorn/prefer-node-protocol': 'off',
     },
     overrides: [
         {
