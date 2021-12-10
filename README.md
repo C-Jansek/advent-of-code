@@ -18,3 +18,8 @@ To run the challenge, you would run:
 ```
 npm start run 2020 1
 ```
+
+## Improvements
+- [ ] Day folders should be zero-padded to two digits, so sorting will always occur the same
+- [ ] Allow for processing test files as `test#.txt`
+- [ ] Improve ESLint settings (remove JsDoc require etc.)
